@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728296374 source:c:\users\hp\220041159 cse 4302\lab 6\159 task 1\main.cpp
+	<iostream>
+	"counter.h"
+
+1728293659 c:\users\hp\220041159 cse 4302\lab 6\159 task 1\include\counter.h
+
+1728294781 source:c:\users\hp\220041159 cse 4302\lab 6\159 task 1\src\counter.cpp
+	"counter.h"
+	<iostream>
+
